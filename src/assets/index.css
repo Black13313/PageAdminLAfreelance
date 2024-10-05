@@ -2,5 +2,5 @@
 @tailwind components;
 @tailwind utilities;
 * {
-  font-family: "Noto Sans Lao", "Noto Sans", sans-serif;
+    font-family: "Noto Sans Lao", "Noto Sans", sans-serif;
 }
